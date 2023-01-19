@@ -1,0 +1,2 @@
+# ahls-skriptid
+Haldusskriptid
